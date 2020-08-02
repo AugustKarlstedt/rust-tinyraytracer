@@ -1,0 +1,8 @@
+[package]
+name = "main"
+version = "0.0.1"
+authors = [ "Your name <you@example.com>" ]
+include = ["main.rs", "Cargo.toml"]
+
+[dependencies]
+ndarray = "0.13.1"
